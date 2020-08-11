@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecretKey": "Pinya Molodec",
+  "mongoUri": "mongodb+srv://RichCannon:admin12345@cluster0.vmapg.azure.mongodb.net/mernapp?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
